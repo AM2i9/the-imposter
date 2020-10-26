@@ -1,0 +1,9 @@
+# Editor and cache files
+__pycache__/
+.vscode/
+
+# temporary mp3 file from music cog
+np.mp3
+
+# key file
+key.json
