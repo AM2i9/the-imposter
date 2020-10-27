@@ -15,6 +15,10 @@ A module that allows the users to create an embed for their Among us game in Dis
 
 ![The Imposter Embed](https://cdn.discordapp.com/attachments/767059746398011394/770394893499236352/Screenshot_2020-10-26_171315.png)
 
+You can easily start a game by typing this command:
+
+```i!start <GAMESERVER> <GAMECODE>```
+
 ### Other Things
 
 The other things that this bot has, the Music and StudyHall modules, are just little modules built for fun on my friends discord server. They are a bit buggy, so if you plan to play aoround with them watch out.
